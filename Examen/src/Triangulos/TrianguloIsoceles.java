@@ -1,8 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/*Copyright (c) 2020 Boyzo Ramirez Carlos,Ortiz Cruz Daniel,Quintana Martinez Alejandra |©-Archivo Historico Digitalizado Charlie Ramirez Animation Studios de Mexico.
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO-FACULTAD DE ESTUDIOS SUPERIORES ARAGON-INGENIERIA ELECTRICA ELECTRONICA.
+        Programa que Calcula Areas y perimetros, Compara y selecciona el triangulo con mayor area, Version 17 de mayo 2020 7.40P. 
+CODIGO BAJO "LICENCIA MIT". PARA CODIGO ABIERTO (OPEN SOURCE  https://opensource.org/licenses/MIT).*/
 package Triangulos;
 public class TrianguloIsoceles {
      private double base;
